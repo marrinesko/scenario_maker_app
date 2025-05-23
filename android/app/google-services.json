@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "431840138222",
+    "project_id": "scenariomakerapp",
+    "storage_bucket": "scenariomakerapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431840138222:android:d00d85672f0e78157a34ff",
+        "android_client_info": {
+          "package_name": "com.example.scenario_maker_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYPr81MuI7yem59Yai6z_F6cMOpG1R0iA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
